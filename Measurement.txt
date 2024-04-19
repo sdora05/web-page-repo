@@ -3,3 +3,4 @@ Chest - 35/13.7
 Length -48/18.5
 Shiter Size = L 
 shoe size = 9
+Trouser size = 34
