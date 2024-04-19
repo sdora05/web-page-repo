@@ -2,3 +2,4 @@ Shoulder - 32.5/12.7
 Chest - 35/13.7
 Length -48/18.5
 Shiter Size = L 
+shoe size = 9
